@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=Cut Lister
+GenericName=Cutlist App
+Comment=Proves that we can use Vala and Gtk
+Categories=Utility;Education;
+Exec=com.github.tepman2.cutlister
+Icon=application-default-icon
+Terminal=false
+Type=Application
+Keywords=Cut;List;
